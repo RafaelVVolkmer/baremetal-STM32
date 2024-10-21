@@ -101,8 +101,8 @@ int main (void)
     /* Enable Clock for each GPIO --------------------------------------------*/
     RCC->AHB1ENR |= 
     (
-      RCC_AHB1ENR_GPIOBEN |    /*GPIOB clock enabled */
-      RCC_AHB1ENR_GPIOCEN      /*GPIOC clock enabled */
+        RCC_AHB1ENR_GPIOBEN |    /*GPIOB clock enabled */
+        RCC_AHB1ENR_GPIOCEN      /*GPIOC clock enabled */
     );
 
     /* Set the user keys inputs ----------------------------------------------*/
