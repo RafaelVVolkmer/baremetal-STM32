@@ -55,8 +55,9 @@
  * ========================================== */
 
 #define KEYS_MASK           (uint8_t)(0b111)
-#define MAX_KEY_CONDITIONS  (uint8_t)(2u)
 #define LEDS_MASK           (uint8_t)(0b11)
+
+#define MAX_KEY_CONDITIONS  (uint8_t)(2u)
 
 /*==========================================
  *              Private Types
