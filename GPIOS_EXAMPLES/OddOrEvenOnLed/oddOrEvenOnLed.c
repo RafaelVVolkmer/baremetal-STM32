@@ -6,25 +6,6 @@
  *  @brief      This module provides a set of exercises for practicing register 
  *              manipulation in baremetal programming on 32-bit ARM Cortex-M4 
  *              microcontrollers from STMicroelectronics.
- * 
- *              The exercises include:
- * 
- *                  - **Register Configuration**:
- *                      - Configuring GPIO registers for input and output.
- *                      - Setting up peripheral control registers.
- * 
- *                  - **Peripheral Management**:
- *                      - Manipulating timers and PWM modules.
- *                      - Handling interrupts and NVIC configuration.
- * 
- *                  - **Input Handling**:
- *                      - Capturing user input via buttons.
- *                      - Implementing encoder interfaces.
- * 
- *                  - **Output Control**:
- *                      - Toggling LEDs based on input conditions.
- *                      - Tracing and debugging PWM signals.
- *
  *
  *  @details    This code checks the input from 3 user keys and, depending on the 
  *              condition, displays the following output on LEDs:
