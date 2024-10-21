@@ -172,7 +172,7 @@ static key_conditions_t checkKeyConditions(uint8_t binary_number)
     
     while(binary_number) 
     {
-        counter += number & 1u;
+        counter += (number & 1u);
         binary_number >>= 1u;
     }
     
