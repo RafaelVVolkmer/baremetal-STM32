@@ -33,8 +33,8 @@
  * 
  *  @file       oddOrEvenOnLed.c
  * 
- *  @author     
- *              Rafael V. Volkmer       (rafael.v.volkmer@gmail.com.br)
+ *  @author     Rafael V. Volkmer       (rafael.v.volkmer@gmail.com.br)
+ *  @date       21/10/2024
  *
  * ===========================================================================*/
 
