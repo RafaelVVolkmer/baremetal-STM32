@@ -1,7 +1,6 @@
 /* =============================================================================
  *  @ingroup    STM32_baremetal_examples
  *  @addtogroup STM32_baremetal_examples Baremetal
- *  @{
  *
  *  @package    STM32_baremetal
  *  @brief      This module provides a set of exercises for practicing register 
