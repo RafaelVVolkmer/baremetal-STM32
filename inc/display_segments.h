@@ -31,7 +31,7 @@
  *
  *  @file       display_segments.h
  * 
- *  @author     Rafael V. Volkmer (Rafael.v.volkmer@gmail.com)
+ *  @author     Rafael V. Volkmer (rafael.v.volkmer@gmail.com)
  *  @date       21/10/2024
  *
  * =============================================================================*/
